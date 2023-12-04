@@ -1,0 +1,14 @@
+{
+  "com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle": {
+
+    "default": {
+
+      "up": "pause_idle",
+
+      "down": "pause_pushed",
+
+      "unpressedOffsetY":-10
+
+    }
+  }
+}
